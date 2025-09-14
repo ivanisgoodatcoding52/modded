@@ -1,0 +1,30 @@
+{
+  "name": "h",
+  "version": "2.0.0",
+  "description": "yeah",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "auto-mod",
+    "levels",
+    "fun"
+  ],
+  "author": "THOSE WHO MANGO PHONK",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
